@@ -1,0 +1,13 @@
+.headbox {
+    display: inline-block;
+    border: solid black 1px;
+    margin: 25px;
+    border-radius: 6px;
+    width: 100px;
+}
+.content {
+    border: solid black 1px;
+    margin: auto;
+    border-radius: 6px;
+    width: 350px;
+}

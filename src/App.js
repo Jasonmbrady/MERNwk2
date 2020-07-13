@@ -1,12 +1,12 @@
 import React from 'react';
 import logo from './logo.svg';
 import './App.css';
-import BoxParent from './components/BoxParent';
+import Tabs from './components/Tabs/Tabs';
 
 function App() {
   return (
     <div className="App">
-      <BoxParent />
+      <Tabs />
     </div>
   );
 }
